@@ -11,3 +11,5 @@ mvn jetty:run
 
 http://localhost:8080/graphql?query={allLinks{url}}
 
+# In-Browser IDE
+https://github.com/graphql/graphiql
